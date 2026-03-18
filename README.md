@@ -56,6 +56,14 @@ http://localhost:3000
 - `PUT /customers/:id`
 - `DELETE /customers/:id`
 
+#### Reports
+- `GET /orders-per-customer`
+- `GET /orders-by-date`
+- `GET /products-over-price`
+- `GET /orders-by-emai`
+- `GET /total-spend-per-customer`
+- `GET /sync-customer-orders`
+
 ### Пример запроса (Postman):
 - POST: http://localhost:3000/api/products 
 - JSON:
