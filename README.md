@@ -60,12 +60,11 @@ http://localhost:3000
 - POST: http://localhost:3000/api/products 
 - JSON:
 {
-    "name": "Wooden pool",
-    "material": "Oak",
-    "price": 39.99,
-    "stock": 5,
-    "_id": "69bacfde03b3d5e661bf2d7c",
-    "__v": 0
+  "name": "Wooden pool",
+  "material": "Oak",
+  "price": 39.99,
+  "stock": 5
 }
+
 ### Пример запроса (POSTMAN)
 
